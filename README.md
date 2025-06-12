@@ -3,6 +3,12 @@
 
 **🔗 Website:** [maisonfacile.ch](https://maisonfacile.ch)
 
+## 🖼️ Preview
+
+Responsive version of the homepage:
+
+<img src="images/maison_facile_resp.png" alt="Responsive preview of maisonfacile.ch" width="600"/>
+
 ## 📌 Description
 
 **maisonfacile.ch** is an e-commerce project built on the **dropshipping** model, targeting the Swiss market. The store was created with a practical approach, focusing on automation and ease of maintenance.
