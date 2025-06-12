@@ -7,7 +7,7 @@
 
 Responsive version of the homepage:
 
-<img src="images/maison_facile_resp.jpg" alt="Responsive preview of maisonfacile.ch" width="600"/>
+<img src="images/maison_facile_resp.jpg" alt="Responsive preview of maisonfacile.ch" width="400"/>
 
 ## 📌 Description
 
